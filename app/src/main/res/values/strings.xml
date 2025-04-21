@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MealMate</string>
+
+    <!-- Common -->
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="login_prompt">Login to your account</string>
+    <string name="register_prompt">Create a new account</string>
+    <string name="back_to_login">Already have an account? Login</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="recipes">Recipes</string>
+    <string name="grocery_list">Grocery List</string>
+    <string name="blog">Blog</string>
+    <string name="settings">Settings</string>
+
+    <!-- Home -->
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="what_to_cook">What would you like to cook today?</string>
+    <string name="create_meal">Create Meal</string>
+    <string name="recent_meals">Recent Meals</string>
+    <string name="weekly_plan">This Week\'s Plan</string>
+    <string name="no_recipes">You haven\'t created any recipes yet</string>
+
+    <!-- Recipes -->
+    <string name="my_recipes">My Recipes</string>
+    <string name="create_recipe">Create Recipe</string>
+    <string name="recipe_details">Recipe Details</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="add_image">Add Image</string>
+    <string name="change_image">Change Image</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="ingredient_name">Ingredient Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="unit">Unit</string>
+    <string name="add_to_grocery">Add to Grocery List</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="share_recipe">Share to Community</string>
+    <string name="delete_recipe">Delete Recipe</string>
+    <string name="edit_recipe">Edit Recipe</string>
+
+    <!-- Grocery List -->
+    <string name="grocery_list_title">Grocery List</string>
+    <string name="add_item">Add Item</string>
+    <string name="delegate">Delegate Shopping</string>
+    <string name="swipe_hint">Swipe right to mark as purchased, swipe left to delete</string>
+    <string name="shake_hint">Shake your phone to clear purchased items</string>
+    <string name="empty_grocery_list">Your grocery list is empty</string>
+    <string name="item_name">Item Name</string>
+    <string name="category">Category</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="select_contact">Select Contact</string>
+    <string name="send_list">Send List</string>
+
+    <!-- Blog -->
+    <string name="community_recipes">Community Recipes</string>
+    <string name="save_to_my_recipes">Save to My Recipes</string>
+    <string name="empty_blog">No community recipes found</string>
+
+    <!-- Reminders -->
+    <string name="reminders">Reminders</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="past">Past</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="reminder_title">Title</string>
+    <string name="reminder_message">Message</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="empty_reminders">No reminders found</string>
+    <string name="clear_completed">Clear Completed</string>
+    <string name="mark_completed">Mark Completed</string>
+
+    <!-- Settings -->
+    <string name="account_settings">Account Settings</string>
+    <string name="profile">Profile</string>
+    <string name="app_settings">App Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="logout">Logout</string>
+    <string name="version">Version %1$s</string>
+
+</resources>

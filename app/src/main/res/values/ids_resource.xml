@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Reusable ids for layout resources -->
+    <item name="toolbar" type="id"/>
+    <item name="nav_host_fragment" type="id"/>
+    <item name="fab" type="id"/>
+    <item name="bottom_nav" type="id"/>
+</resources>
